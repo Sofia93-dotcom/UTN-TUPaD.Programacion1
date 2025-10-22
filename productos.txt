@@ -1,0 +1,4 @@
+Cartuchera,2000,50
+Goma,500,35
+Lapiz,1000,50
+agua,12,14
